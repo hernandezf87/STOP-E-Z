@@ -14,8 +14,7 @@ basic commands quickly and effectively through a simple, accessible interface.
 - Clear separation between UI and application logic
 
 ## Tech Stack
-- Swift
-- UIKit
+- SwiftUI
 - Xcode
 - App Store Connect
 
