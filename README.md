@@ -10,7 +10,7 @@ basic commands quickly and effectively through a simple, accessible interface.
 
 ## Architecture
 - MVC architecture
-- UIKit-based application
+- SwiftUI application
 - Clear separation between UI and application logic
 
 ## Tech Stack
